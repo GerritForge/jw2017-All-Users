@@ -1,2 +1,3 @@
 [externalId "username:jenkins"]
 	accountId = 1000002
+	password = bcrypt:4:sF/umfD4rANo4fkN9qoocg==:4lFazS47gcvf4Q2EBT5tqSRmA4toADPo
